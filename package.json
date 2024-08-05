@@ -2,9 +2,10 @@
   "dependencies": {
     "Babel": "^0.0.1",
     "eslint": "^9.8.0",
+    "eslist": "^1.0.0-beta.1",
     "jest": "^29.7.0"
   },
-   "scripts": {
+  "scripts": {
     "lint": "./node_modules/.bin/eslint",
     "check-lint": "lint [0-9]*.js",
     "dev": "npx babel-node",
@@ -12,4 +13,3 @@
     "full-test": "./node_modules/.bin/eslint [0-9]*.js && jest"
   }
 }
-
