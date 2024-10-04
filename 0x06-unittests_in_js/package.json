@@ -1,0 +1,11 @@
+{
+  "name": "0-calcul.js",
+  "version": "1.0.0",
+  "description": "'This is a package'",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Daniel Kiyiki",
+  "license": "ISC"
+}
